@@ -1,0 +1,15 @@
+C:\Users\foure\OneDrive\Desktop\BIT5\Data Structure\Assignment2\bin\Release\NUnit3.TestAdapter.dll
+C:\Users\foure\OneDrive\Desktop\BIT5\Data Structure\Assignment2\bin\Release\NUnit3.TestAdapter.pdb
+C:\Users\foure\OneDrive\Desktop\BIT5\Data Structure\Assignment2\bin\Release\nunit.engine.dll
+C:\Users\foure\OneDrive\Desktop\BIT5\Data Structure\Assignment2\bin\Release\nunit.engine.api.dll
+C:\Users\foure\OneDrive\Desktop\BIT5\Data Structure\Assignment2\bin\Release\nunit.engine.core.dll
+C:\Users\foure\OneDrive\Desktop\BIT5\Data Structure\Assignment2\bin\Release\Assignment2.exe.config
+C:\Users\foure\OneDrive\Desktop\BIT5\Data Structure\Assignment2\bin\Release\Assignment2.exe
+C:\Users\foure\OneDrive\Desktop\BIT5\Data Structure\Assignment2\bin\Release\Assignment2.pdb
+C:\Users\foure\OneDrive\Desktop\BIT5\Data Structure\Assignment2\bin\Release\nunit.framework.dll
+C:\Users\foure\OneDrive\Desktop\BIT5\Data Structure\Assignment2\bin\Release\nunit.framework.pdb
+C:\Users\foure\OneDrive\Desktop\BIT5\Data Structure\Assignment2\bin\Release\nunit.framework.xml
+C:\Users\foure\OneDrive\Desktop\BIT5\Data Structure\Assignment2\obj\Release\Assignment2.csprojAssemblyReference.cache
+C:\Users\foure\OneDrive\Desktop\BIT5\Data Structure\Assignment2\obj\Release\Assignment2.csproj.CopyComplete
+C:\Users\foure\OneDrive\Desktop\BIT5\Data Structure\Assignment2\obj\Release\Assignment2.exe
+C:\Users\foure\OneDrive\Desktop\BIT5\Data Structure\Assignment2\obj\Release\Assignment2.pdb
